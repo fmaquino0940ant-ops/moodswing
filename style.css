@@ -94,6 +94,16 @@ a { color: inherit; text-decoration: none; }
     gap: 10px;
 }
 
+.home-page {
+    background: linear-gradient(
+        180deg,
+        var(--green-light),
+        var(--green-dark)
+    );
+    min-height: 100vh;
+}
+
+
 /* Main visual area */
 
 .home-hero {
